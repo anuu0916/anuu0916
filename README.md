@@ -12,6 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahnyoujin916)](https://solved.ac/ahnyoujin916/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ahnyoujin916)](https://solved.ac/ahnyoujin916)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuu0916)](https://github.com/anuraghazra/github-readme-stats)
