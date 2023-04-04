@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <!--
-**anuu0916/anuu0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahnyoujin916)](https://solved.ac/ahnyoujin916/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuu0916)](https://github.com/anuraghazra/github-readme-stats)
