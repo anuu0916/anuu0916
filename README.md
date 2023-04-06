@@ -15,6 +15,10 @@
 ![MongoDB
 ](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white)
 
+
+### AI & Data Science
+![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white)
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000.svg?&style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white)
